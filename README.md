@@ -15,10 +15,11 @@ and unit testing.
 
 <div align="center">
   <details>
-    <summary><b>Languages</b> | <b>Frameworks</b> | <b>Tools</b></summary>
+    <summary><b>Click here for More</b></summary>
   
-  | CSS3       | React        | Git, GitHub                    |
+  | Languages  | Frameworks   | Tools                          |
   | ---------  | ----------   | -------------------------------|
+  | CSS3       | React        | Git, GitHub                    |
   | HTML5      | Tailwind CSS | MongoDB                        |
   | JavaScript | ReactJS      | Node.js, GraphQL               |
   | SQL        | HandlebarsJS | PWA, API's, Unit Testing       |
