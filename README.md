@@ -25,7 +25,7 @@ and unit testing.
   | SQL        | HandlebarsJS | PWA, API's, Unit Testing       |
   |            |              | Tailwind CSS, BootStrap        |
   |            |              | Node.js, Express.js            |
-  |            |              | GraphQL, PostMan Mern Stack    |
+  |            |              | Insomnia, Mern Stack           |
   
   </details>
 </div>
