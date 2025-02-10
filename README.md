@@ -11,7 +11,7 @@ I have experience in all areas but specialize in frontend development.
   | Languages  | Frameworks   | Tools                |
   | ---------  | ----------   | ---------------------|
   | CSS3       | React        | Git, GitHub          |
-  | HTML5      | Tailwind CSS | MongoDB, SQL         |
+  | HTML5      | Tailwind CSS | MongoDB, PostgreSQL  |
   | JavaScript | ReactJS      | Node.js, GraphQL     |
   | SQL        | HandlebarsJS | API's, Unit Testing  |
   | Python     |              | shadcn               |
