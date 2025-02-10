@@ -1,34 +1,24 @@
-👋 Hi, I'm Ryan, a Full Stack Web Developer,
-with a passion for creating new user-friendly things.
+👋 Hi, I'm Ryan, a Frontend Web Developer,
+inspired by my love of anime and games to make immersive UI.
 
-🎓 Having successfully completed my Full Stack Web Development studies with Rutgers,
-I am enthusiastic about applying the knowledge gained to real-world projects.
-Additionally, I hold a bachelor's degree in Computer Science,
-further enriching my understanding and capabilities in the field.
-
-🧑‍💻 Armed with expertise as a Full Stack Developer,
-I possess a profound understanding of technologies like HTML, CSS, JavaScript,
-ReactJS, HandlebarsJS, API's, and Tailwind. Additionally, I am adept in backend technologies,
-encompassing NodeJS/ExpressJS, SQL (MySQL), NoSQL databases (MongoDB), PWA, MERN Stack CI/CD,
-and unit testing.
-
+🎓 BSc Computer Science & Full-Stack Web Development Certificate,
+I have experience in all areas but specialize in frontend development.
 
 <div align="center">
   <details>
     <summary><b>Click here for More</b></summary>
   
-  | Languages  | Frameworks   | Tools                          |
-  | ---------  | ----------   | -------------------------------|
-  | CSS3       | React        | Git, GitHub                    |
-  | HTML5      | Tailwind CSS | MongoDB                        |
-  | JavaScript | ReactJS      | Node.js, GraphQL               |
-  | SQL        | HandlebarsJS | PWA, API's, Unit Testing       |
-  |            |              | Tailwind CSS, BootStrap        |
-  |            |              | Node.js, Express.js            |
-  |            |              | Insomnia, Mern Stack           |
+  | Languages  | Frameworks   | Tools                |
+  | ---------  | ----------   | ---------------------|
+  | CSS3       | React        | Git, GitHub          |
+  | HTML5      | Tailwind CSS | MongoDB, SQL         |
+  | JavaScript | ReactJS      | Node.js, GraphQL     |
+  | SQL        | HandlebarsJS | API's, Unit Testing  |
+  | Python     |              | shadcn               |
+  |            |              | Node.js, Express.js  |
+  |            |              | Insomnia, Mern Stack |
   
   </details>
 </div>
-
 
 ![Snake animation](https://github.com/RyanEbanks/RyanEbanks/blob/output/github-contribution-grid-snake.svg)
