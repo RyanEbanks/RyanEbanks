@@ -1,6 +1,6 @@
 # Ryan Ebanks
 ### FullStack Developer
-I specialize in React, TypeScript, Tailwind, Node.js with Jest for Unit Testing. I've deployed applications to: Vercel, AWS and Heroku
+I specialize in React, TypeScript, Tailwind, Node.js with Jest for Unit Testing. I've deployed applications to: Vercel, AWS and Heroku.
 I also have experience with technologies such as: C#, ASP.NET, mySQL, postgreSQL, MongoDB and Redux.
 My current interests include Vue and Docker.
 
