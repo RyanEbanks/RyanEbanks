@@ -1,8 +1,11 @@
 # Ryan Ebanks
 ### Software Engineer | Data Analyst | System Administrator
 I work with engineering, data and systems.
+
 Software Engineering - React, TypeScript, Tailwind, Node.js, Python, SQL, MongoDB and Jest for Unit Testing. I've deployed applications to: Vercel, AWS and Heroku.
+
 Data Analyst - Advanced Excel, Tableau, Power BI, SQL, Power Query, Microsoft CRM.
+
 System Administrator - Windows Server, Ubuntu Linux, Subnetting, Cisco Packet Tracer, DHCP, DNS, SSH, VMware, Backups.
 
 ## Contact Me 📞
