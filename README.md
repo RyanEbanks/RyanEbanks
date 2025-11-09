@@ -1,8 +1,9 @@
 # Ryan Ebanks
-### FullStack Developer
-I specialize in React, TypeScript, Tailwind, Node.js with Jest for Unit Testing. I've deployed applications to: Vercel, AWS and Heroku.
-I also have experience with technologies such as: Java, Springboot, mySQL, postgreSQL, MongoDB and Redux.
-My current interests include Vue and Docker.
+### Software Engineer | Data Analyst | System Administrator
+I work with engineering, data and systems.
+Software Engineering - React, TypeScript, Tailwind, Node.js, Python, SQL, MongoDB and Jest for Unit Testing. I've deployed applications to: Vercel, AWS and Heroku.
+Data Analyst - Advanced Excel, Tableau, Power BI, SQL, Power Query, Microsoft CRM.
+System Administrator - Windows Server, Ubuntu Linux, Subnetting, Cisco Packet Tracer, DHCP, DNS, SSH, VMware, Backups.
 
 ## Contact Me 📞
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ryankebanks@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ryan-ebanks1/) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://ebanksdev.com/)
